@@ -24,3 +24,7 @@ Flow of code is given below:
 rest same as above.
 
 Suggested to run codes in MATLAB. Also change image file name wherever required.
+
+===
+
+DigitExtraction.m : to extract digits from a given number image.
